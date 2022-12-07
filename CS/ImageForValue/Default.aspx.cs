@@ -9,7 +9,7 @@ using System.Web.UI.WebControls;
 using System.Web.UI.WebControls.WebParts;
 using System.Web.UI.HtmlControls;
 using DevExpress.Web.ASPxTreeList;
-using DevExpress.Web.ASPxEditors;
+using DevExpress.Web;
 
 namespace ImageForValue {
     public partial class _Default : System.Web.UI.Page {
